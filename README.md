@@ -1,1 +1,37 @@
-FoodlogForChronicDisease
+# 食刻安心 Shike-Anxin App
+
+A lightweight AI-powered food logging app for people with chronic conditions like diabetes, kidney disease, or who are taking anticoagulants.
+
+## 🔍 Problem Statement
+Users with chronic diseases face uncertainty when choosing or recording meals. Traditional food logging apps are too complex and not tailored to their needs.
+
+## 🎯 Solution
+Shike-Anxin provides:
+- One-click photo-based food recognition
+- Automatic nutrition and risk calculation
+- Personalized alerts for risky foods (e.g. Vitamin K-rich)
+- Easy visual trend tracking
+
+## 🛠️ Tech Stack
+- React Native
+- Node.js + Express
+- PostgreSQL + MongoDB
+- PyTorch (AI food recognition model)
+
+## 📂 Project Structure
+- `/doc` – Documentation and design materials
+- `/src` – Source code (coming soon)
+- `/model` – AI model training (to be added)
+
+## 📖 User Story
+See: [`doc/user_story.md`](./doc/user_story.md)
+
+## 📸 Storyboard
+![Storyboard](./doc/storyboard.png)
+
+## 📅 Roadmap
+- [x] Define PRD
+- [x] Set up repo
+- [ ] Upload AI model prototype
+- [ ] Complete UI demo
+- [ ] Collect user testing feedback
