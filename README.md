@@ -27,7 +27,7 @@ Shike-Anxin provides:
 See: [`doc/user_story.md`](./doc/user_story.md)
 
 ## 📸 Storyboard
-![Storyboard](./doc/storyboard.png)
+<img src="./doc/storyboard.png" alt="Storyboard" width="600"/>
 
 ## 📅 Roadmap
 - [x] Define PRD
