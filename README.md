@@ -23,9 +23,6 @@ Shike-Anxin provides:
 - `/src` – Source code (coming soon)
 - `/model` – AI model training (to be added)
 
-## 📖 User Story
-See: [`doc/user_story.md`](./doc/user_story.md)
-
 ## 📸 Storyboard
 <img src="./doc/storyboard.png" alt="Storyboard" width="600"/>
 
