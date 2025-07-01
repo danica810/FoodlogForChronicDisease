@@ -29,6 +29,11 @@ See: [`doc/user_story.md`](./doc/user_story.md)
 ## 📸 Storyboard
 <img src="./doc/storyboard.png" alt="Storyboard" width="600"/>
 
+## 📎 Downloadable Reports
+
+- [Persona (PDF)](./doc/persona.pdf)
+- [Competitive Analysis (PDF)](./doc/competitiveanalysis.pdf)
+
 ## 📅 Roadmap
 - [x] Define PRD
 - [x] Set up repo
